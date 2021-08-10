@@ -1,0 +1,21 @@
+create database quizes;
+use quizes;create table eq_test(
+question varchar(500),
+option_A varchar(300),
+option_B varchar(300), 
+option_C varchar(300), 
+option_D varchar(300));
+create table test_mentalage(
+question varchar(100),
+option_A varchar(100), 
+option_B varchar(50), option_C varchar(50), 
+option_D varchar(50)
+);
+create table mathriddles(
+question varchar(150), 
+answer varchar(20)
+);
+create table personality_test1(
+question varchar(400), 
+description varchar(400)
+);
