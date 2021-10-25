@@ -26,7 +26,7 @@ print('Congratulations! you just made a decision today')
 print('So, I will leave you to play around a bit.. ')
 print('See you sooooooon!')
 while True:
-    print("\t\t\t\tCHOOSE YOUR PREFERENCE")
+    print("\t\t\t\t\t\tCHOOSE YOUR PREFERENCE")
     print("1. EQ TEST")
     print("2. MENTAL AGE TEST")
     print("3. MATH RIDDLES")
