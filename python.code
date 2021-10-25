@@ -229,5 +229,5 @@ def mental_age():
     x='On Saturn’s largest moon, Titan, a person could fly by attaching wings to their arms.'
 
     L=[q,w,e,r,t,a,u,i,o,p,s,d,f,g,h,j,k,l,x,c,v,b,n,m]
-
+\\random choice
     print(random.choice(L))
